@@ -1,3 +1,7 @@
+# this is fork project
+please use from :
+https://github.com/react-native-webrtc/react-native-webrtc/
+
 # react-native-webrtc
 
 [![npm version](https://badge.fury.io/js/react-native-webrtc.svg)](https://badge.fury.io/js/react-native-webrtc)
